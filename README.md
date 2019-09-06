@@ -1,5 +1,5 @@
 
-# Multi-factor Model
+# Factor Model
 ---
 
 This project is a production ready prototype model that 
