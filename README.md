@@ -21,4 +21,3 @@ This project is a production ready prototype model that
 <img src="assets/port_risk_exposures.PNG" alt="drawing" width="300px"/>
   
 **note:** uses end of day pricing data from Quotemedia and sector data from Sharadar, which could not be shared due to licensing restrictions
-
